@@ -3,7 +3,6 @@ JV 2024 Fork : +
 
 Adapted for multi SPI supported boards like Arduino Portenta-Pro Series with HAT carrier +
 Adapted Multi data transfer according SPI libraries for Portenta-Pro +
-There was no touch example - working on it. + 
 Used his multi-SPI version fora Space Invaders demo at a fair:
 
 - [https://github.com/javos65/Portenta-C33-Space-Invaders]
